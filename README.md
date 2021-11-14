@@ -1,0 +1,1 @@
+# python-kvadarat_tenglama
